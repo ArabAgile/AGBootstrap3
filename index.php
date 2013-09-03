@@ -13,7 +13,7 @@
       <script src="_/js/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body id="home">
     <h1>Hello, world!</h1>
 
     <script src="_/js/bootstrap.js"></script>
